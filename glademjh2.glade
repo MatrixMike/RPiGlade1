@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <!-- interface-requires gtk+ 3.0 -->
+  <object class="GtkCalendar" id="mywindow">
+    <property name="visible">True</property>
+    <property name="can_focus">True</property>
+    <property name="year">2014</property>
+    <property name="month">10</property>
+    <property name="day">28</property>
+  </object>
+</interface>
