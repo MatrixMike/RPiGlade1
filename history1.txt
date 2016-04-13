@@ -1,0 +1,382 @@
+    1  ls
+    2  sudo apt-get install glade
+    3  glade
+    4  startx
+    5  ls
+    6  cat glademjh1.glade 
+    7  more < glademjh1.glade 
+    8  cat glademjh1.glade 
+    9  more < glademjh1.glade 
+   10  cat glademjh1.glade 
+   11  whoami 
+   12  sudo init 6
+   13  ifconfig 
+   14  sudo init 0
+   15  w
+   16  ls
+   17  ls -lc
+   18  ./testglade1 
+   19  ls -lc
+   20  ./testglade1 
+   21  ls -lc
+   22  ./testglade1
+   23  ls -lc
+   24  mv testglade1 firstglade
+   25  ls -lc
+   26  more < libs.txt 
+   27  scrot
+   28  ls -lc
+   29  ls -lc
+   30  ./testglade1 
+   31  vi testglade1.c 
+   32  ./testglade1 
+   33  glade
+   34  ls -lc
+   35  ./testglade1 
+   36  ls -lc
+   37  ./firstglade 
+   38  ls -lc
+   39  ./firstglade 
+   40  ls -lc
+   41  ./testglade1 
+   42  ls -lc
+   43  tree
+   44  sudo apt-get install tree
+   45  tree
+   46  cd /opt/vc/src/hello_pi/
+   47  tree
+   48  more < README 
+   49  echo $SDKSTAGE
+   50  ls
+   51  cd hello_world/
+   52  ls -lc
+   53  make
+   54  ls -lc
+   55  ./hello_world.bin 
+   56  df -h
+   57  ls -lc
+   58  ./testglade1 
+   59  sudo init 0
+   60  ls -lc
+   61  ./testglade1 
+   62  startx
+   63  ./testglade1 
+   64  ./testglade1   &
+   65  ld -lc
+   66  ls -lc
+   67  ./firstglade   &
+   68  ls -lc
+   69  mkdir  glade
+   70  mv glademjh1.glade glade/
+   71  ls -lc
+   72  ./firstglade   &
+   73  top
+   74  ls -lc
+   75  ./testglade1 
+   76  startx
+   77  sudo init 0
+   78  ./testglade1 
+   79  ls -lc
+   80  ./firstglade 
+   81  ls glade/
+   82  cp glade/glademjh1.glade .
+   83  ./firstglade 
+   84  ./firstglade   &
+   85  vi testglade1.c 
+   86  more < testglade1.c 
+   87  glade &
+   88  vim
+   89  compile with $ gcc -Wall -g -o testGlade test.c `pkg-config --cflags --libs gtk+-3.0`
+   90  gcc -Wall -g -o testGlade test.c `pkg-config --cflags --libs gtk+-3.0`
+   91  pwd
+   92  ls
+   93  gcc -Wall -g -o testGlade test.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+   94  gcc -Wall -g -o testGlade testGlade.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+   95  gcc -Wall -g -o testglade testglade.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+   96  gcc -Wall -g -o testglade1 testglade1.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+   97  ls -lc
+   98  ./a.out 
+   99  date 
+  100  ./testglade1
+  101  ls -lc
+  102  ls -c
+  103  ls -l
+  104  ./testglade1
+  105  ./testglade1 &
+  106  ls -lc
+  107  man mv
+  108  man cp
+  109  mv glade/glademjh1.glade glade/glademjh2.glade 
+  110  ls glade/
+  111  cp glademjh1.glade glade/
+  112  ls glade/
+  113  ls glade/ -lc
+  114  ls -lc
+  115  ./testglade1 
+  116  startx
+  117  sudo init 0
+  118  ls -lc
+  119  ./testglade1 
+  120  sudo init 0
+  121  ls -lc
+  122  startx --help
+  123  startx --help > startxHelp.txt
+  124  ls -lc
+  125  startx --help 2> startxHelp.txt
+  126  ls -lc
+  127  more < startxHelp.txt 
+  128  more < /var/log/Xorg.0.log
+  129  startx
+  130  glade
+  131  scrot
+  132  ifconfig 
+  133  scrot
+  134  ls -lc
+  135  scrot
+  136  ls -lc
+  137  ./testglade1 &
+  138  ls -lc
+  139  ./testglade1 &
+  140  ls -lc
+  141  ./testglade1 &
+  142  more < testglade1.c 
+  143  gcc -Wall -g -o testglade1 testglade1.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+  144  ./testglade1 &
+  145  ls -lc
+  146  ./firstglade &
+  147  ./a.out 
+  148  ./testglade1old &
+  149  ls -lc
+  150  cd glade/
+  151  ls -lc
+  152  cd ..
+  153  more < testglade1.c 
+  154  ls -lc
+  155  more < glademjh3.glade 
+  156  more < glademjh1
+  157  more < glademjh1.glade 
+  158  ls -lc
+  159  mv glademjh1.glade glademjh2.glade
+  160  mv glademjh3.glade glademjh1.glade
+  161  ./testglade1 &
+  162  sudo apt-get install scrot
+  163  startx
+  164  sudo init 0
+  165  scrot
+  166  ls -lc
+  167  glade &
+  168  top
+  169  pwd
+  170  ls
+  171  cd hello_world/
+  172  ls -lc
+  173  cat world.c 
+  174  make
+  175  make clean
+  176  ls -lc
+  177  make
+  178  ls -lc
+  179  ./hello_world.bin 
+  180  cd ¬
+  181  startx
+  182  cd /opt/vc/src/hello_pi/
+  183  startx
+  184  sudo init 0
+  185  ls -lc
+  186  ./testglade1
+  187  raspi-config 
+  188  sudo raspi-config 
+  189  startx
+  190  sudo init 0
+  191  ifconfig 
+  192  ls -lc
+  193  cd glade/
+  194  ls -lc
+  195  cd xubcolours/
+  196  ls -lc
+  197  history > history1.txt
+  198  grep gc history1.txt 
+  199  gcc -Wall -g -o testglade1 testglade1.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+  200  gcc -Wall -g -o main main.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+  201  ls -lc
+  202  ./main 
+  203  ls -lc
+  204  rm main
+  205  ls -lc
+  206  gcc -Wall -g -o main main.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+  207  ls -lc
+  208  ls -lc
+  209  rm main
+  210  mv main.c colours.c
+  211  ls -lc
+  212  gcc -Wall -g -o colours colours.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+  213  ls -lc
+  214  ./colours 
+  215  ls -lc
+  216  ./colours mike vlad > coloursOut.txt
+  217  ls -lc
+  218  more < coloursOut.txt 
+  219  ./colours mike vlad > coloursOut.txt
+  220  scrot
+  221  ls -lc
+  222  ifconfig 
+  223  startx
+  224  ls -lc
+  225  cd glade/
+  226  ls -lc
+  227  cd xubcolours/
+  228  ls -lc
+  229  gcc -Wall -g -o testglade1 testglade1.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+  230  sudo init 0
+  231  ls -lc
+  232  cd glade/
+  233  ls -lc
+  234  ./xubcolours/
+  235  cd xubcolours/
+  236  ls -lc
+  237  ./colours 
+  238  ls -lc
+  239  cd ..
+  240  ls -lc
+  241  startx
+  242  sudo init 0
+  243  cd /opt/vxcsrc
+  244  cd /opt/vc/src/
+  245  ls -lc
+  246  cd hello_pi/
+  247  ls -lc
+  248  cd hello_world/
+  249  ls -lc
+  250  cat world.c 
+  251  ls -lc
+  252  ls
+  253  cat Makefile 
+  254  make
+  255  rm hello_world.bin 
+  256  ls -lc
+  257  make
+  258  ls -lc
+  259  ./hello_world.bin 
+  260  cat world.c 
+  261  ./hello_world.bin 
+  262  wpd
+  263  pwd
+  264  cd /home/pi/glade/
+  265  ls
+  266  cd xubcolours/
+  267  ls
+  268  ./colours 
+  269  glade
+  270  startx
+  271  sudo init 0
+  272  ifconfig 
+  273  ls -lc
+  274  cd glade/
+  275  ls -lc
+  276  cd gladeCalendar/
+  277  ls -lc
+  278  gcc -Wall -g -o main main.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+  279  ls -lc
+  280  more < main.c 
+  281  vi main.c 
+  282  gcc -Wall -g -o main main.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+  283  ls -lc
+  284  ./ma
+  285  ./main 
+  286  gcc -Wall -g -o main main.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+  287  mkdir srv
+  288  mkdir src
+  289  rm srv
+  290  rmdir srv
+  291  ls -lc
+  292  mv gtk_printing1.ui src/
+  293  ./main 
+  294  ./colours 
+  295  pwd
+  296  cd glade/
+  297  ./colours 
+  298  ls
+  299  ls -lc
+  300  cd xubcolours/
+  301  ls -lc
+  302  ./colours 
+  303  startx
+  304  sudo init 0
+  305  cd xubcolours/
+  306  pwd
+  307  ls
+  308  cd glade/
+  309  ls
+  310  cd gladeCalendar/
+  311  ls
+  312  ./main 
+  313  date 
+  314  startx
+  315  sudo init 0
+  316  ./colours 
+  317  pwd
+  318  ls -lt
+  319  cd glade/
+  320  ls -lt
+  321  cd glade/
+  322  cd gladeCalendar/
+  323  ls -lt
+  324  ./main 
+  325  startx
+  326  sudo init 0
+  327  scrot
+  328  cd gladeCalendar/
+  329  cd glade/
+  330  cd gladeCalendar/
+  331  ls -lt
+  332  ./main &
+  333  startx
+  334  sudo init 0
+  335  if [ -f /usr/local/bin/rpc_utils ]; then echo OK; else echo ERROR; fi; echo "xRPCx"
+  336  if [ -f /usr/local/bin/rpc_utils ]; then echo OK; else echo ERROR; fi; echo "xRPCx"
+  337  if [ -f /usr/local/bin/rpc_utils ]; then echo OK; else echo ERROR; fi; echo "xRPCx"
+  338  if [ -f /usr/local/bin/rpc_utils ]; then echo OK; else echo ERROR; fi; echo "xRPCx"
+  339  cd glade/gladeCalendar/
+  340  ./main &
+  341  ifconfig 
+  342  startx
+  343  sudo init 0
+  344  anjunya &
+  345  anjuta &
+  346  pwd
+  347  cd gtk-rpi/Debug/src/.
+  348  ls -lc
+  349  ./gtk_rpi 
+  350  df -h
+  351  anjuta
+  352  sudo apt-get install anjuta
+  353  sudo apt-get update 
+  354  sudo apt-get install anjuta
+  355  anjuta  &
+  356  startx
+  357  sudo init 6
+  358  startx
+  359  sudo init 0
+  360  startx
+  361  devhelp 
+  362  devhelp 
+  363  startx
+  364  sudo init 0
+  365  devhelp 
+  366  startx
+  367  sudo init 0
+  368  devhelp 
+  369  startx
+  370  sudo init 0
+  371  devhelp 
+  372  startx
+  373  sudo init 0
+  374  devhelp 
+  375  startx
+  376  sudo init 0
+  377  ls -lc
+  378  history > history1.txt
+  379  pwd
+  380  ls -lc
+  381  pwd
+  382  history > history1.txt
