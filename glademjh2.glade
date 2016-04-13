@@ -4,8 +4,8 @@
   <object class="GtkCalendar" id="mywindow">
     <property name="visible">True</property>
     <property name="can_focus">True</property>
-    <property name="year">2014</property>
-    <property name="month">10</property>
-    <property name="day">28</property>
+    <property name="year">2016</property>
+    <property name="month">4</property>
+    <property name="day">13</property>
   </object>
 </interface>
