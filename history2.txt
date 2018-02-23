@@ -1,0 +1,1000 @@
+ 1247  cd ..
+ 1248  ls -lctrh
+ 1249  cd stringeye/
+ 1250  lein uberjar 
+ 1251  java -jar target/stringeye-0.1.3-SNAPSHOT-standalone.jar 
+ 1252  java -jar target/stringeye-0.1.3-SNAPSHOT-standalone.jar   &
+ 1253  cd ~/Haskell/
+ 1254  git status
+ 1255  gitk &
+ 1256  git add backwards/backwards.hs && git commit -m "re-instated"
+ 1257  git push
+ 1258  git pull
+ 1259  ls -lc
+ 1260  ls -lc
+ 1261  cd ~/Linux-tricks-and-tips/
+ 1262  git status
+ 1263  git add versions.sh && git commit -m "check arg 1" && git push
+ 1264  cd ~/
+ 1265  cd javaLowLevel/
+ 1266  ./centrelink/centrelinkBat.sh 
+ 1267  git pull
+ 1268  ./centrelink/centrelinkBat.sh 
+ 1269  cat ./centrelink/centrelinkBat.sh 
+ 1270  ./centrelink/centrelinkBat.sh 
+ 1271  cal
+ 1272  cal 2018
+ 1273  ./centrelink/centrelinkBat.sh 
+ 1274  git pull
+ 1275  ifconfig 
+ 1276  route -n
+ 1277  nm-tool 
+ 1278  nm-connection-editor 
+ 1279  nm-tool
+ 1280  ifconfig 
+ 1281  dmesg 
+ 1282  ifconfig 
+ 1283  nm-applet 
+ 1284  6008946100289811^MICHAEL HEWITT                ^9912^7010
+ 1285  6008946100289811/99127010
+ 1286  6008946100289811^MICHAEL HEWITT                ^9912^7010
+ 1287  6008946100289811/99127010
+ 1288  ifconfig 
+ 1289  git pull
+ 1290  cd ..
+ 1291  git pull
+ 1292  ghc Vowel2.hs
+ 1293  ifconfig 
+ 1294  dmesg | more
+ 1295  dmesg | grep microcode
+ 1296  dmesg | more
+ 1297  ifconfig 
+ 1298  sudo apt-get update 
+ 1299  sudo apt-get upgrade 
+ 1300  git pull
+ 1301  cd ~/Haskell/
+ 1302  git pull
+ 1303  ghc recursion1.hs 
+ 1304  ls -lctrh
+ 1305  cd ~/
+ 1306  haskell-misc/
+ 1307  cd ~/haskell-misc/
+ 1308  git pull
+ 1309  cd ~/clojure/
+ 1310  git pull
+ 1311  ls -lctrh
+ 1312  cd stringeye/
+ 1313  tree
+ 1314  lein uberjar 
+ 1315  java -jar target/stringeye-0.1.3-SNAPSHOT-standalone.jar 
+ 1316  cd ~/
+ 1317  ls -lctrh
+ 1318  cd gtk+-3.22.18/
+ 1319  ls -lctrh
+ 1320  ./autogen.sh 
+ 1321  ./configure 
+ 1322  ld
+ 1323  cd ~?
+ 1324  cd ~/
+ 1325  ifconfig 
+ 1326  ls -lctrh
+ 1327  du
+ 1328  df -h
+ 1329  cd xeyes/
+ 1330  make
+ 1331  make clean
+ 1332  make
+ 1333  ls -lctrh
+ 1334  ./xeyes 
+ 1335  ifconfig 
+ 1336  ghc recursion1.hs 
+ 1337  ls -lctrh
+ 1338  rm *.o *.hi
+ 1339  ghc recursion1.hs 
+ 1340  cd learnyouahaskell/
+ 1341  ls -lctrh
+ 1342  cd ../backwards/
+ 1343  ls -lctrh
+ 1344  git pull
+ 1345  ghc Reversew.hs
+ 1346  ls -lctrh
+ 1347  rm *.o *.hi
+ 1348  ls -lctrh
+ 1349  ghc Reversew.hs
+ 1350  ls -lctrh
+ 1351  cd ..
+ 1352  ls -lctrh
+ 1353  ls -lc
+ 1354  ghc url.hs 
+ 1355  cat url.hs 
+ 1356  cabal install network-uri
+ 1357  ghc url.hs 
+ 1358  cd learnyouahaskell/
+ 1359  ls -lctrh
+ 1360  ghc facebook2.hs
+ 1361  gtk_colours 
+ 1362  git pull
+ 1363  ls -lctrh
+ 1364  ghc facebook2.hs
+ 1365  ls -lctrh
+ 1366  cd ..
+ 1367  ls -lctrh
+ 1368  ghc backwards/backwards.hs 
+ 1369  ls -lctrh
+ 1370  git status
+ 1371  cd ~/xeyes/
+ 1372  ls -lctrh
+ 1373  make clean
+ 1374  make 
+ 1375  cd ~/gtk-colours/
+ 1376  ls -lctrh
+ 1377  make clean
+ 1378  make
+ 1379  tree
+ 1380  cd ~/
+ 1381  ls -lctrh
+ 1382  cd cppNoob/
+ 1383  git pull
+ 1384  ls -lctrh
+ 1385  gcc functionalTest1.c 
+ 1386  cpp 
+ 1387  cppcpp
+ 1388  cpp
+ 1389  ls -lctrh
+ 1390  cpp pythagoras1.cpp 
+ 1391  geany pythagoras1.cpp &
+ 1392  ls -lctrh
+ 1393  git status
+ 1394  rm strings2.cpp~
+ 1395  git status
+ 1396  ls main -lc
+ 1397  ls main* -lc
+ 1398  ls main? -lc
+ 1399  rm main? 
+ 1400  ls -lctrh
+ 1401  git status
+ 1402  ls gcf? -lc
+ 1403  ls gcf -lc
+ 1404  rm gcf
+ 1405  git status
+ 1406  ls -lctrh
+ 1407  rm *.o
+ 1408  ls -lctrh
+ 1409  rm pythagoras1
+ 1410  ls -lctrh
+ 1411  git status
+ 1412  ls -lctrh
+ 1413  ./main9 
+ 1414  git status
+ 1415  gedit cpp_get.cgi 
+ 1416  git  add getcookies.cpp && git commit -m "try again soon" && git push
+ 1417  cd ~/cppP29/
+ 1418  git status
+ 1419  ls -lctrh
+ 1420  make
+ 1421  make   clean
+ 1422  make
+ 1423  ls -lctrh
+ 1424  rm newprog 
+ 1425  make
+ 1426  make newprog
+ 1427  ls -lctrh
+ 1428  git status
+ 1429  git add Makefile 
+ 1430  git status
+ 1431  cat dateFor.cxx 
+ 1432  git status
+ 1433  gitk &
+ 1434  git add dateFor.cxx 
+ 1435  git status
+ 1436  ls -lctrh
+ 1437  cat README.md 
+ 1438  gedit README.md &
+ 1439  make newprog 
+ 1440  make   clean
+ 1441  make newprog 
+ 1442  ls -lctrh
+ 1443  git status
+ 1444  git add README.md && git commit -m "more tips" && git push
+ 1445  git status
+ 1446  cd ~/
+ 1447  ls -lc
+ 1448  cd gtk-foobarc++/
+ 1449  ls -lctrh
+ 1450  git status
+ 1451  ./autogen.sh 
+ 1452  make
+ 1453  ls -lctrh
+ 1454  tree
+ 1455  ./src/gtk_foobarc__ 
+ 1456  git status
+ 1457  git init
+ 1458  git status
+ 1459  git src/Makefile src/main.cc 
+ 1460  git add src/Makefile src/main.cc 
+ 1461  git status
+ 1462  cd ~/gtk+-3.22.18/
+ 1463  ls -lctrh
+ 1464  ./autogen.sh 
+ 1465  cd ~/gtkterm2-0.2.3/
+ 1466  ls -lctrh
+ 1467  ./configure 
+ 1468  cd ~/Haskell/
+ 1469  git pull
+ 1470  ghc backwards/singleWord.hs 
+ 1471  ls -lctrh
+ 1472  cd backwards/
+ 1473  ls -lctrh
+ 1474  git pull
+ 1475  ls -lctrh
+ 1476  ./configure 
+ 1477  cd ..
+ 1478  ls -lctrh
+ 1479  ./configure 
+ 1480  ./autogen.sh 
+ 1481  ifconfig 
+ 1482  cd ~/Haskell/
+ 1483  git pull
+ 1484  cat backwards/Middlew.hs
+ 1485  git stash
+ 1486  git pull
+ 1487  cd backwards/
+ 1488  ls -lctrh
+ 1489  ghc singleWord.hs
+ 1490  ls -lctrh
+ 1491  ghc singleWord.hs
+ 1492  ls -lctrh
+ 1493  ./autogen.sh 
+ 1494  cd ~/
+ 1495  ls -lctrh
+ 1496  cd libxslt-1.1.29/
+ 1497  ls -lctrh
+ 1498  ./configure 
+ 1499  cd ~/
+ 1500  ls -lc
+ 1501  cd libxml2-2.9.4/
+ 1502  ls -lc
+ 1503  ./autogen.sh 
+ 1504  make
+ 1505  sudo make  install
+ 1506  cd ~/gtkterm2-0.2.3/
+ 1507  ./autogen.sh 
+ 1508  ls -lctrh
+ 1509  ./configure 
+ 1510  cd ~/
+ 1511  ls -lc
+ 1512  cd vte-0.48.3/
+ 1513  ls -lc
+ 1514  ./autogen.sh 
+ 1515  ./configure 
+ 1516  ls -lc
+ 1517  ./autogen.sh 
+ 1518  cd ~/
+ 1519  cd gnutls-3.5.14/
+ 1520  ls -lc
+ 1521  ./configure 
+ 1522  ls -lc
+ 1523  ./configure 
+ 1524  cd ~/
+ 1525  ls -lc
+ 1526  cd nettle-3.3/
+ 1527  ls -lc
+ 1528  ./configure 
+ 1529  ls -lc
+ 1530  make
+ 1531  make  clean
+ 1532  make
+ 1533  sudo make
+ 1534  sudo make install
+ 1535  cd javaLowLevel/
+ 1536  ls -lc
+ 1537  git pull
+ 1538  ls -lcd
+ 1539  ls -lc
+ 1540  cd DateExamples/
+ 1541  ls -lc
+ 1542  java nerg 
+ 1543  java WOWdates 
+ 1544  ls -lctrh
+ 1545  cat README 
+ 1546  ./doinstall 
+ 1547  sudo ./doinstall 
+ 1548  ls -lctrh
+ 1549  gnat
+ 1550  ls -lctrh
+ 1551  cat config.guess 
+ 1552  cd /usr/gnat/
+ 1553  ls -lctrh
+ 1554  cd bin/
+ 1555  ls -lctrh
+ 1556  ls -lc
+ 1557  ls -lctrh
+ 1558  ./configure 
+ 1559  ifconfig 
+ 1560  git pull
+ 1561  ghc singleWord.hs
+ 1562  ls -lctrh
+ 1563  cd ~/
+ 1564  git clone https:/github.com/matrixmike/AdaDemo1
+ 1565  cd ~/
+ 1566  ls -lc
+ 1567  git clone https:/github.com/matrixmike/AdaDemo1
+ 1568  git clone https://github.com/matrixmike/AdaDemo1
+ 1569  cd AdaDemo1/
+ 1570  ls -lctrh
+ 1571  ./buildWIP.sh 
+ 1572  sudo apt-get update 
+ 1573  sudo apt-get upgrade 
+ 1574  ifconfig 
+ 1575  cd ~/xeyes/
+ 1576  ls -lctrh
+ 1577  make
+ 1578  ./usage.sh 
+ 1579  ifconfig 
+ 1580  whereis javac
+ 1581  whereis java
+ 1582  make
+ 1583  make   clean
+ 1584  make
+ 1585  sudo make   install
+ 1586  cd ~/
+ 1587  xeyes
+ 1588  whereis xeyes
+ 1589  go
+ 1590  cd ~/gochar/
+ 1591  ls -lctrh
+ 1592  go build
+ 1593  cd hello/
+ 1594  go build
+ 1595  gps
+ 1596  gnatname
+ 1597  ~/Linux-tricks-and-tips/temphdd.sh 
+ 1598  cd ..
+ 1599  git pull
+ 1600  cd ~/
+ 1601  ls -lc
+ 1602  cd amarks/
+ 1603  ls -lc
+ 1604  lein uberjar
+ 1605  tree
+ 1606  java -jar target/helloworld-1.0.1-SNAPSHOT-standalone.jar 
+ 1607  ifconfig 
+ 1608  dmesg 
+ 1609  ifconfig 
+ 1610  ifconfig wlan4 down
+ 1611  sudo ifconfig wlan4 down
+ 1612  ifconfig 
+ 1613  dmesg 
+ 1614  ifconfig 
+ 1615  sudo ifconfig wlan6 up
+ 1616  ifconfig 
+ 1617  dmesg 
+ 1618  ifconfig 
+ 1619  dmesg 
+ 1620  ls -lctrh
+ 1621  cd dhcp-4.3.6/
+ 1622  ls -lctrh
+ 1623  ./configure 
+ 1624  make
+ 1625  ls -lctrh
+ 1626  tree
+ 1627  tree -d
+ 1628  ls -lctrh
+ 1629  cat README 
+ 1630  ifconfig 
+ 1631  dmesg 
+ 1632  ifconfig 
+ 1633  cd ~/
+ 1634  git clone https://github.com/MatrixMike/mesa-demos.git
+ 1635  cd mesa-demos/
+ 1636  ls -lctrh
+ 1637  ./autogen.sh 
+ 1638  ls -lctrh
+ 1639  ls -lctrh
+ 1640  ./string3 
+ 1641  cat test.go 
+ 1642  ls -lc
+ 1643  go build test.go
+ 1644  go build switch.go
+ 1645  cd ..
+ 1646  go build switch.go
+ 1647  cd switch/
+ 1648  go build switch.go
+ 1649  ls -lctrh
+ 1650  ./switch 
+ 1651  cd ..
+ 1652  git status
+ 1653  git add string3/string3.go web-crawl/web-crawl.go 
+ 1654  git status
+ 1655  git commit -m "minor changes" && git push
+ 1656  2014701189
+ 1657  986810040499280001
+ 1658  2014701189
+ 1659  cd ~/youi/
+ 1660  ls -lc
+ 1661  thunar &
+ 1662  ~/Linux-tricks-and-tips/temphdd.sh 
+ 1663  thunderbird &
+ 1664  ifconfig 
+ 1665  ~/Linux-tricks-and-tips/temphdd.sh 
+ 1666  cd ~/
+ 1667  ls -lctrh
+ 1668  cd mesa-demos/
+ 1669  ls -lctrh
+ 1670  ./configure 
+ 1671  ls -lctrh
+ 1672  history 
+ 1673  tail --help
+ 1674  tail | history 
+ 1675  history   | tail 
+ 1676  ./configure 
+ 1677  apt-get install libmesa-dev
+ 1678  sudo apt-get install libmesa-dev
+ 1679  sudo apt install mesa-common-dev
+ 1680  ./configure 
+ 1681  git help
+ 1682  git pull help
+ 1683  git  help pull
+ 1684  dmesg | more
+ 1685  dmesg 
+ 1686  dmesg | more
+ 1687  dmesg | grep pcmcia
+ 1688  cd ~/
+ 1689  git clone https://github.com/MatrixMike/blueman.git
+ 1690  cd blueman/
+ 1691  ls -lctrh
+ 1692  ./autogen.sh 
+ 1693  ls -lctrh
+ 1694  cat README.md 
+ 1695  ls -lctrh
+ 1696  ls apps/
+ 1697  ls blueman/
+ 1698  ./autogen.sh 
+ 1699  ls -lctrh
+ 1700  cat ltmain.sh 
+ 1701  more <  ltmain.sh 
+ 1702  ls -lctrh
+ 1703  ls *.sh
+ 1704  more <  ltmain.sh 
+ 1705  chmod +x ltmain.sh 
+ 1706  ls *.sh
+ 1707  ./ltmain.sh 
+ 1708  autoconf 
+ 1709  ls -lctrh
+ 1710  ./autogen.sh 
+ 1711  gtk_colours 
+ 1712  python
+ 1713  python3.4
+ 1714  ls -lctrh
+ 1715  git status
+ 1716  ./configure 
+ 1717  tree
+ 1718  ./py-compile 
+ 1719  ./py-compile --help
+ 1720  ./install-sh 
+ 1721  ls -lctrh
+ 1722  ./compile 
+ 1723  ./autogen.sh 
+ 1724  cd blueman/
+ 1725  ls -lctrh
+ 1726  make
+ 1727  tree
+ 1728  tree -d
+ 1729  cd ..
+ 1730  ls -lctrh
+ 1731  ls po/
+ 1732  ls sendto/
+ 1733  ls data/
+ 1734  autoconf 
+ 1735  ls -lctrh
+ 1736  cat config.log 
+ 1737  whereis python3.4
+ 1738  gedit tips.txt &
+ 1739  ls -lctrh
+ 1740  git status
+ 1741  pycompile 
+ 1742  cd ~/
+ 1743  ls -lc
+ 1744  cd Python/
+ 1745  ls -lc
+ 1746  pycompile boxes3.py 
+ 1747  ls -lctrh
+ 1748  python boxes3.pyc 
+ 1749  python boxes3.py
+ 1750  pycompile fibonacci1.py 
+ 1751  git status
+ 1752  pycompile fibonacci1.py 
+ 1753  git status
+ 1754  ls -lctrh
+ 1755  python fibonacci1.pyc 
+ 1756  git status
+ 1757  git add fibonacci1.py && git commit -m "pycompile story"
+ 1758  git status
+ 1759  git push
+ 1760  git pull
+ 1761  git push
+ 1762  ls -lctrh
+ 1763  python fibonacci1.py
+ 1764  python gcd.py 
+ 1765  python hello.py 
+ 1766  python python2fibon.py 
+ 1767  python lambda1.py 
+ 1768  cd ~/xeyes/
+ 1769  git pull
+ 1770  cd ~/
+ 1771  git clone https://github.com/MatrixMike/X11.git
+ 1772  cd X11/
+ 1773  ls -lctrh
+ 1774  cabal configure
+ 1775  ls -lctrh
+ 1776  cat README.md 
+ 1777  cabal configure
+ 1778  cabal --version
+ 1779  ls -lc
+ 1780  ./main_x 
+ 1781  cd ..
+ 1782  ls -lc
+ 1783  cd flappy/
+ 1784  ls -lc
+ 1785  cd ~/X11/
+ 1786  ls -lctrh
+ 1787  git pull
+ 1788  ./buildIt.sh 
+ 1789  ls -lctrh
+ 1790  cabal update
+ 1791  ./buildIt.sh 
+ 1792  cat buildIt.sh 
+ 1793  ls examples/
+ 1794  cat buildIt.sh 
+ 1795  ./buildIt.sh 
+ 1796  cd ~/
+ 1797  git clone https://github.com/MatrixMike/flappy.git
+ 1798  cd flappy/
+ 1799  ls -lctrh
+ 1800  go build
+ 1801  ifconfig 
+ 1802  ls -lctrh
+ 1803  git status
+ 1804  cat tips.txt 
+ 1805  git add tips.txt && git commit -m "build tips" && git push
+ 1806  git pull
+ 1807  mv tips.txt tip2.txt
+ 1808  git pull
+ 1809  git rm tips.txt 
+ 1810  git add tips.txt && git commit -m "build tips" && git push
+ 1811  git commit -m "build tips" && git push
+ 1812  git pull
+ 1813  ls -lctrh
+ 1814  cat tip2.txt 
+ 1815  cd ~/Linux-tricks-and-tips/
+ 1816  git pull
+ 1817  git status
+ 1818  ls -lctrh
+ 1819  ./versions.sh 
+ 1820  ls -lctrh
+ 1821  git status
+ 1822  cd ~/Haskell/
+ 1823  ag unlines .
+ 1824  cd learnyouahaskell/
+ 1825  hlint
+ 1826  sudo apt-get install hlint
+ 1827  ls -lc
+ 1828  ./cabal --version
+ 1829  ./cabal configure
+ 1830  ./cabal update
+ 1831  cd ~/
+ 1832  go
+ 1833  go version
+ 1834  go help c
+ 1835  go help gopath
+ 1836  sudo apt-get update 
+ 1837  sudo apt-get upgrade 
+ 1838  ls -lctrh
+ 1839  ./autogen.sh 
+ 1840  ls -lctrh
+ 1841  gedit buildTips.txt &
+ 1842  ls -lctrh
+ 1843  ./autogen.sh 
+ 1844  cd ~/
+ 1845  git clone https://github.com/MatrixMike/libexif.git
+ 1846  cd libexif/
+ 1847  ls -lctrh
+ 1848  cat README
+ 1849  tree
+ 1850  ls -lctrh
+ 1851  make
+ 1852  ls -lctrh
+ 1853  cat README
+ 1854  cd ~/mlug
+ 1855  ls -lctrh
+ 1856  cat jan2018crap.txt 
+ 1857  ls -lctrh
+ 1858  gedit jan2018crap.txt  &
+ 1859  cd ~/
+ 1860  git clone https://github.com/MatrixMike/libexif-gtk.git
+ 1861  cd libexif-gtk/
+ 1862  ls -lctrh
+ 1863  ./autogen.sh 
+ 1864  autopoint
+ 1865  sudo apt-get install autopoint
+ 1866  ./autogen.sh 
+ 1867  ls -lctrh
+ 1868  make
+ 1869  ./autogen.sh 
+ 1870  tree
+ 1871  cd gtk-extensions/
+ 1872  ls -lctrh
+ 1873  make
+ 1874  make all
+ 1875  cat Makefile.am 
+ 1876  ls -lctrh
+ 1877  cd ..
+ 1878  ls -lctrh
+ 1879  ./configure 
+ 1880  cd ~/libexif
+ 1881  ls -lctrh
+ 1882  tree
+ 1883  cd contrib/aolserver/
+ 1884  ls -lctrh
+ 1885  make
+ 1886  geany nsexif.c &
+ 1887  cd ../..
+ 1888  ls -lctrh
+ 1889  tree
+ 1890  cd test/
+ 1891  ls -lctrh
+ 1892  make
+ 1893  cat Makefile.am 
+ 1894  make check_PROGRAMS
+ 1895  make TESTS
+ 1896  gcc test-integers.c 
+ 1897  cd ..
+ 1898  ls -lctrh
+ 1899  tree --version
+ 1900  cat NEWS 
+ 1901  cd ~/
+ 1902  ls -lctrh
+ 1903  ./autogen.sh 
+ 1904  libexif
+ 1905  lsb_release -a
+ 1906  libexif12
+ 1907  ifconfig 
+ 1908  cd ~/
+ 1909  git clone https://github.com/MatrixMike/GTK.git
+ 1910  cd GTK/
+ 1911  ls -lctrh
+ 1912  ./configure 
+ 1913  cd ~/Linux-tricks-and-tips/
+ 1914  git pull
+ 1915  ristretto &
+ 1916  ifconfig 
+ 1917  git pull
+ 1918  ifconfig 
+ 1919  ls -lctrh
+ 1920  ./versions.sh 
+ 1921  ifconfig 
+ 1922  git pull
+ 1923  ls -lctrh
+ 1924  ./BinariesVersionCheck.sh 
+ 1925  cd ~/Linux-tricks-and-tips/
+ 1926  git pull
+ 1927  ifconfig 
+ 1928  git pull
+ 1929  ./autogenSuiteVersions.sh 
+ 1930  git pull
+ 1931  git status
+ 1932  cd ~/
+ 1933  git clone https://github.com/MatrixMike/gtk-ipaddress.git
+ 1934  cd gtk-ipaddress/
+ 1935  ls -lctrh
+ 1936  ./autogen.sh 
+ 1937  make
+ 1938  ~/Linux-tricks-and-tips/temphdd.sh 
+ 1939  git pull
+ 1940  git status
+ 1941  brasero &
+ 1942  ~/Linux-tricks-and-tips/temphdd.sh 
+ 1943  watch -n 5 ~/Linux-tricks-and-tips/temphdd.sh 
+ 1944  brasero &
+ 1945  cd ~/
+ 1946  git clone https://github.com/MatrixMike/GrahamHuttonBook.git
+ 1947  cd GrahamHuttonBook/
+ 1948  git status
+ 1949  ls -lctrh
+ 1950  git pull
+ 1951  ls -lctrh
+ 1952  ghc tictactoe.hs
+ 1953  cd ~/
+ 1954  git clone https://github.com/MatrixMike/bash.git
+ 1955  cd bash/
+ 1956  ls -lctrh
+ 1957  cat go.txt 
+ 1958  cd ~/
+ 1959  mv bash/ bash1/
+ 1960  git clone https://github.com/MatrixMike/bash.git
+ 1961  cd bash
+ 1962  ls -lctrh
+ 1963  shellcheck
+ 1964  sudo apt-get install shellcheck
+ 1965  cd ~/
+ 1966  git clone https://github.com/MatrixMike/shellcheck.git
+ 1967  cd shellcheck/
+ 1968  ls -lctrh
+ 1969  cat README.md 
+ 1970  cabal install ShellCheck
+ 1971  ls -lctrh
+ 1972  ./quicktest 
+ 1973  ghc shellcheck.hs
+ 1974  cabal install Text.Regex
+ 1975  cabal install Text.Regex.TDFA
+ 1976  cabal update
+ 1977  cabal install Text.Regex.TDFA
+ 1978  cd ~/javaLowLevel/
+ 1979  git pull
+ 1980  ./ECAdates.sh 
+ 1981  ./dirch1.sh 
+ 1982  ls centrelink/ -lc
+ 1983  cat centrelink/centrelinkBat.sh 
+ 1984  git pull
+ 1985  ./centrelink/centrelinkBat.sh 
+ 1986  git pull
+ 1987  cd ~/Linux-tricks-and-tips/
+ 1988  git pull
+ 1989  ./autogenSuiteVersions.sh 
+ 1990  cat ./autogenSuiteVersions.sh 
+ 1991  ls -lctrh
+ 1992  cat versions.sh 
+ 1993  cd ~/bash
+ 1994  ls -lctrh
+ 1995  git pull
+ 1996  ./scriptsTest3.sh 
+ 1997  ./scriptsTest1.sh 
+ 1998  ./scriptsTest3.sh 
+ 1999  cd ~/gladeStuff/
+ 2000  ls -lctrh
+ 2001  more < testForExisting.ui 
+ 2002  ls -lctrh
+ 2003  more < testForExisting.ui 
+ 2004  cd ~?
+ 2005  cd ~/
+ 2006  ls -lctrh
+ 2007  cd gtk-foobarc++/
+ 2008  ls -lctrh
+ 2009  ./src/gtk_foobarc__ 
+ 2010  ls -lctrh
+ 2011  cd ~/
+ 2012  ls -lctrh
+ 2013  cd flappy/
+ 2014  ls -lctrh
+ 2015  cat tips.txt 
+ 2016  cat README.md 
+ 2017  go build
+ 2018  ls -lctrh
+ 2019  go
+ 2020  go build
+ 2021  ls -lctrh
+ 2022  cd ~/
+ 2023  ls -lctrh
+ 2024  c blueman/
+ 2025  ls -lctrh
+ 2026  cd blueman/
+ 2027  ls -lctrh
+ 2028  ./autogen.sh 
+ 2029  date
+ 2030  ./autogen.sh 
+ 2031  cd ~/
+ 2032  ls -lctrh
+ 2033  cd matlab/
+ 2034  ls -lctrh
+ 2035  cat helpMike.txt 
+ 2036  tree
+ 2037  ls -lctrh
+ 2038  ./install 
+ 2039  cd ~/
+ 2040  ls -lctrh
+ 2041  ls TimWebb/
+ 2042  cd nettle-3.3/
+ 2043  ls -lctrh
+ 2044  ls *.sh
+ 2045  make
+ 2046  make   clean
+ 2047  make
+ 2048  ls -lctrh
+ 2049  git status
+ 2050  cd ~/
+ 2051  ls -lctrh
+ 2052  ls linux-structures/
+ 2053  ls -lctrh
+ 2054  cd linux-structures/
+ 2055  ls -lctrh
+ 2056  cd ~/alffie/
+ 2057  ls -lctrh
+ 2058  cd ~/
+ 2059  ls -lctrh
+ 2060  cd amarks/
+ 2061  ls -lctrh
+ 2062  tree
+ 2063  java -jar target/helloworld-1.0.1-SNAPSHOT-standalone.jar 
+ 2064  cd ~/
+ 2065  ls -lctrh
+ 2066  ls youi/
+ 2067  cd ~/
+ 2068  ls -lctrh
+ 2069  ls telstra/
+ 2070  cd libexif/
+ 2071  ls -lctrh
+ 2072  make
+ 2073  cd ~/libexif-gtk/
+ 2074  ls -lctrh
+ 2075  ./autogen.sh 
+ 2076  ls -lctrh
+ 2077  tree --version
+ 2078  tree --help
+ 2079  shellcheck
+ 2080  cd ~/
+ 2081  ls -lctrh
+ 2082  cd ristretto-0.8.2/
+ 2083  ls -lctrh
+ 2084  ./autogen.sh 
+ 2085  cd ~/libexif
+ 2086  ls -lctrh
+ 2087  make
+ 2088  cat README
+ 2089  cd ~/
+ 2090  ls -lctrh
+ 2091  c gochar/
+ 2092  cd gochar/
+ 2093  ls -lctrh
+ 2094  cat goTips.sh 
+ 2095  git status
+ 2096  ls -lctrh
+ 2097  cd src/
+ 2098  ls -lctrh
+ 2099  cd ~/
+ 2100  ls -lctrh
+ 2101  cd vte-0.48.3/
+ 2102  ls -lctrh
+ 2103  ./autogen.sh 
+ 2104  ./configure 
+ 2105  ls -lctrh
+ 2106  automake
+ 2107  autoheader 
+ 2108  ./autogen.sh 
+ 2109  cd ~/
+ 2110  ls -lctrh
+ 2111  ls --version
+ 2112  ls --help
+ 2113  ls --sort=size
+ 2114  ls --sort=size -lc
+ 2115  ls --sort=size 
+ 2116  ls --sort=time
+ 2117  ls --help
+ 2118  ls -t
+ 2119  cd emailRaspberryPi/
+ 2120  ls -lc
+ 2121  cd ~/
+ 2122  ls -lc
+ 2123  ls -t
+ 2124  cd fridge/
+ 2125  ls -lc
+ 2126  cat fridge1.txt 
+ 2127  cd ~/
+ 2128  ls -lc
+ 2129  ls -t
+ 2130  cd RaspberryPi-C/
+ 2131  ls -lc
+ 2132  cat rebuild.sh 
+ 2133  ls -lc
+ 2134  make
+ 2135  cd hello_world/
+ 2136  ls -lc
+ 2137  make
+ 2138  cd ..
+ 2139  ls -lc
+ 2140  ./rebuild.sh 
+ 2141  ls -lc
+ 2142  tree
+ 2143  cd hello_world/
+ 2144  ls -lc
+ 2145  make
+ 2146  ls -lctrh
+ 2147  ./world 
+ 2148  rm world
+ 2149  make
+ 2150  ls -lctrh
+ 2151  cd ..
+ 2152  ls -lctrh
+ 2153  cd hello_teapot/
+ 2154  ls -lctrh
+ 2155  make
+ 2156  ls -lctrh
+ 2157  cat README.md 
+ 2158  gcc models.c 
+ 2159  cd ~/
+ 2160  ls -t
+ 2161  cd RPiGlade1/
+ 2162  ls -t
+ 2163  ls -lctrh
+ 2164  cat README.md 
+ 2165  show PATH
+ 2166  cat testglade1.c 
+ 2167  gcc -Wall -g -o testGlade test.c `pkg-config --cflags --libs gtk+-3.0`
+ 2168  gcc -Wall -g -o testglade1 testglade1.c $(pkg-config --cflags gtk+-3.0) $(pkg-config   --libs gtk+-3.0)
+ 2169  ls -lctrh
+ 2170  ./testglade1 
+ 2171  git status
+ 2172  gitk &
+ 2173  ls -lctrh
+ 2174  ./testGlade 
+ 2175  cat README.md 
+ 2176  cat testglade1.c 
+ 2177  gedit buildIt.sh &
+ 2178  ls -lctrh
+ 2179  chmod +x buildIt.sh 
+ 2180  ls -lctrh
+ 2181  ./buildIt.sh 
+ 2182  ls -lctrh
+ 2183  rm testglade1
+ 2184  ./buildIt.sh 
+ 2185  ls -lctrh
+ 2186  pkg-config --cflags gtk+-3.0
+ 2187  pkg-config   --libs gtk+-3.0
+ 2188  pkg-config   --version
+ 2189  pkg-config   --help
+ 2190  pkg-config   --usage
+ 2191  pkg-config   --modversion
+ 2192  pkg-config   --list-all
+ 2193  pkg-config   --list-all | sort
+ 2194  usbutils
+ 2195  pkg-config   --list-all | sort
+ 2196  pkg-config   
+ 2197  pkg-config   --help
+ 2198  pkg-config   --print-variables
+ 2199  pkg-config   usbutils --print-variables
+ 2200  pkg-config   x11 --print-variables
+ 2201  pkg-config   x11 --static
+ 2202  pkg-config   x11 --libs
+ 2203  pkg-config   pango --libs
+ 2204  ls -lctrh
+ 2205  gitk &
+ 2206  git status
+ 2207  cat testData1.txt 
+ 2208  git add -v buildIt.sh && git commit -m "build help"
+ 2209  ls -lctrh
+ 2210  cat buildIt.sh 
+ 2211  rm testglade1
+ 2212  ./buildIt.sh 
+ 2213  ls -lctrh
+ 2214  cat README.md 
+ 2215  git status
+ 2216  ls -lctrh
+ 2217  rm glademjh1.glade~
+ 2218  rm glademjh2.glade~
+ 2219  ls -lctrh
+ 2220  git status
+ 2221  cat testData1.txt 
+ 2222  ls -lca
+ 2223  ls -lcatrh
+ 2224  ./testGlade 
+ 2225  rm testGlade 
+ 2226  ls -lcatrh
+ 2227  ls -lctrh
+ 2228  rm testglade1
+ 2229  ls -lctrh
+ 2230  ./buildIt.sh 
+ 2231  ls -lctrh
+ 2232  git status
+ 2233  ./testglade1 
+ 2234  ls -lctrh
+ 2235  cat buildIt.sh 
+ 2236  pkg-config --cflags gtk+-3.0
+ 2237  pkg-config   --libs gtk+-3.0
+ 2238  ls -lc /usr/include/gtk-3.0
+ 2239  tree /usr/include/gtk-3.0
+ 2240  tree /usr/include/gtk-3.0 -d
+ 2241  ls -lctrh
+ 2242  git status
+ 2243  cat testData1.txt 
+ 2244  ls -lctrh
+ 2245  more < history1.txt 
+ 2246  history > history2.txt 
