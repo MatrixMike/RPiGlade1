@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
 // need to define a location for the glade files
     gtk_builder_add_from_file(gtkBuilder, "/home/mikeh/RPiGlade1/glademjh1.glade", NULL);  // hardcode a full path
     gtk_builder_add_from_file(gtkBuilder, "/media/mikeh/mikeSpace/RPiGlade1/glademjh1.glade", NULL);  // hardcode a full path
-    window = GTK_WIDGET(gtk_builder_get_object(gtkBuilder, "mywindow"));
+    gtk_builder_add_from_file(gtkBuilder, "/home/pi/RPiGlade1/glademjh1.glade", NULL);  // hardcode a full path    window = GTK_WIDGET(gtk_builder_get_object(gtkBuilder, "mywindow"));
     
     g_object_unref(G_OBJECT(gtkBuilder));
     gtk_widget_show(window);
